@@ -1,2 +1,2 @@
 This is doc file
-
+this is being edited in git... thanks
